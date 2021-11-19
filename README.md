@@ -25,4 +25,4 @@
     tver checkout <commitId>
 
 # 协议
-MIT
+MIT License
