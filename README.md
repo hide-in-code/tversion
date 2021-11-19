@@ -7,6 +7,8 @@
 
     cd tversion
 
+    go mod tidy #自行启用go mod
+
     go build -o tver main.go
 
     cp tver /usr/local/bin/ 或者使用alias
